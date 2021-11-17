@@ -1,0 +1,5 @@
+fariba 19 no student 
+Alex 65 yes teacher
+May 90 yes retired
+Izzy 35 no nurse
+James 12 no student
