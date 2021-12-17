@@ -1,5 +1,25 @@
-fariba 19 no student 
-Alex 65 yes teacher
-May 90 yes retired
-Izzy 35 no nurse
-James 12 no student
+fariba 19 no student yes 00627
+Alex 65 yes teacher no 01229
+May 80 yes retired no 02126
+Izzy 35 no nurse yes 02745
+James 12 no student no 04924
+Rachel 20 no student no 06418
+Jack 67 yes retired no 08010
+Harold 40 no Doctor yes 01830
+Sarah 29 no thearpist no 01341
+Sam 55 yes engineer no 03082
+Amber 21 no student yes 02885
+Mehar 20 no student yes 02571
+Eric 50 yes cashier yes 02771
+Cat 25 no secretary yes 02135
+David 12 no student no 01832
+Mark 75 yes lawyer yes 01570
+Jenny 76 no maid no 01453
+Bill 42 no server yes 01254
+Aric 25 no professor yes 03462
+Caroline 50 no nurse no 01561
+Trish 35 yes Doctor yes 01075
+Nathan 22 no teacher yes 00971
+Bob 80 yes retired no 00791
+Malorie 30 no scientist yes 00631
+Carly 25 yes teacher yes 03276
